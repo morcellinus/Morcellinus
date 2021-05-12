@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-___
 
 
 #### This is Jinmo's Github
@@ -11,15 +10,16 @@ ___
 
 #### #Sorry, but not welcomed: Tottenham Fans 😒
 
-___
 
 | Sungkyunkwan University Statistics
 
 | PSAT 27th Team Member
 
+##### This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling
+
 ___
 
-##### This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling
+
 
 ### Undergraduate
 
