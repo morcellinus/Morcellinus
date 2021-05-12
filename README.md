@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### Welcome to Jinmo's Github
-| This is a playground that stores my precious, marvelous, but yet not perfect "full of tears" codes using R/Python for Data analysis and Modelling
+| This is a playground that stores my precious, marvelous, but yet not perfect 
+| "full of tears" codes using R/Python for Data analysis and Modelling
 
 
 <!--
