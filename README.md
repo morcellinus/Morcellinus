@@ -7,7 +7,7 @@
 #### #Sorry, but not welcomed: Tottenham Fans 😒
 
 
-| SungKyunKwan University Statistics
+| Sungkyunkwan University Statistics
 
 | PSAT 27th Team Member
 
