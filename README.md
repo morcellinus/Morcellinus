@@ -2,9 +2,9 @@
 
 #### This is Jinmo's Github
 
-#### [Fully welcomed]: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
+#### #Fully welcomed: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
 
-#### [Sorry, but not welcomed]: Tottenham Fans 😒
+#### #Sorry, but not welcomed: Tottenham Fans 😒
 
 
 | SungKyunKwan University Statistics
