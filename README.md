@@ -1,19 +1,30 @@
 ### Hi there 👋
 
+___
+
+
 #### This is Jinmo's Github
+
+___
 
 #### #Fully welcomed: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
 
 #### #Sorry, but not welcomed: Tottenham Fans 😒
 
+___
 
 | Sungkyunkwan University Statistics
 
 | PSAT 27th Team Member
 
+___
+
 ##### This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling
 
 ### Undergraduate
+
+___
+
 
 | 2020-01
 
@@ -25,6 +36,8 @@ Mathematics for Statistics
 
 Investments
 
+___
+
 | 2020-02
 
 Mathematical Statistics
@@ -32,6 +45,9 @@ Mathematical Statistics
 Introduction to Regression Analysis
 
 Introduction to Statistical Programming
+
+___
+
 
 | 2021-01 (Currently taking)
 
