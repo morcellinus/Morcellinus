@@ -16,21 +16,33 @@
 ### Undergraduate
 
 | 2020-01
+
 Principles of Statistics
+
 Matrix Algebra
+
 Mathematics for Statistics
+
 Investments
 
-|2020-02
+| 2020-02
+
 Mathematical Statistics
+
 Introduction to Regression Analysis
+
 Introduction to Statistical Programming
 
 | 2021-01 (Currently taking)
+
 Design of Experiment
+
 Introduction to Biostatistics
+
 Statistical Datamining
+
 Large Data Management and Visualization
+
 Analysis (Mathematics)
 
 
