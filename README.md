@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-#### Welcome to Jinmo's Github
+#### This is Jinmo's Github
+
+#### [Fully welcomed]: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
+
+#### [Sorry, but not welcomed]: Tottenham Fans 😒
+
 
 | SungKyunKwan University Statistics
 
 | PSAT 27th Team Member
 
-
-
 ##### This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling
 
-#### [Fully welcomed]: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
-
-#### [Sorry, but not welcomed]: Tottenham Fans 😒
 
 
 
