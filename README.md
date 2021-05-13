@@ -1,5 +1,3 @@
-<center> what up? </center>
-<br>
 <br>
 <br>
 
@@ -20,15 +18,10 @@ ___
 
 `2020-01`
 
-Principles of Statistics
-
-Matrix Algebra
-
-Mathematics for Statistics
-
-Investments
-
-___
+Principles of Statistics<br>
+Matrix Algebra<br>
+Mathematics for Statistics<br>
+Investments<br>
 
 `2020-02`
 
@@ -37,9 +30,6 @@ Mathematical Statistics
 Introduction to Regression Analysis
 
 Introduction to Statistical Programming
-
-___
-
 
 `2021-01 (Currently taking)`
 
