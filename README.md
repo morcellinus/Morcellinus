@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=9999cc&height=300&section=header&text=Morcellinus&desc=whasssssssssup&fontSize=90&fontColor=ffffff&rotate=19&fontAlignY=40&fontAlign=60&descrotate=19)
+![header](https://capsule-render.vercel.app/api?type=slice&color=000099&height=300&section=header&text=Morcellinus&desc=whasssssssssup&fontSize=90&fontColor=ffffff&rotate=19&fontAlignY=40&fontAlign=60&descrotate=19)
 ### Hi there 👋
 
 #### This is Jinmo's Github
