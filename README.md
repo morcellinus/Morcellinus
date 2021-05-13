@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Morcellinus&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=_hexcode&height=200&section=header&text=Morcellinus&fontSize=90&rotate=-30)
 
 
 ### Hi there 👋
