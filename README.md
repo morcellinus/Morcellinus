@@ -1,10 +1,8 @@
 <br>
-<br>
-
 ### Hi there 👋
 
+#### This is Jinmo's Github
 
-#### This is Jinmo's Github<br>
 | Sungkyunkwan University Statistics<br>
 | PSAT 27th Datamining Team Member
 ___
@@ -25,23 +23,17 @@ Investments<br>
 
 `2020-02`
 
-Mathematical Statistics
-
-Introduction to Regression Analysis
-
-Introduction to Statistical Programming
+Mathematical Statistics<br>
+Introduction to Regression Analysis<br>
+Introduction to Statistical Programming<br>
 
 `2021-01 (Currently taking)`
 
-Design of Experiment
-
-Introduction to Biostatistics
-
-Statistical Datamining
-
-Large Data Management and Visualization
-
-Analysis (Mathematics)
+Design of Experiment<br>
+Introduction to Biostatistics<br>
+Statistical Datamining<br>
+Large Data Management and Visualization<br>
+Mathematical Analysis
 
 
 <!--
