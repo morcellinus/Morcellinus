@@ -1,9 +1,13 @@
+<center> What you lookin' at? </center>
+
+_ _ _
+
 ### Hi there 👋
 
 
-
-#### This is Jinmo's Github
-
+#### This is Jinmo's Github<br>
+| Sungkyunkwan University Statistics<br>
+| PSAT 27th Datamining Team Member
 ___
 
 #### #Fully welcomed: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
@@ -11,22 +15,11 @@ ___
 #### #Sorry, but not welcomed: Tottenham Fans 😒
 
 
-| Sungkyunkwan University Statistics
-
-| PSAT 27th Team Member
-
-##### This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling
-
-___
-
-
+**This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling**
 
 ### Undergraduate
 
-___
-
-
-| 2020-01
+'2020-01'
 
 Principles of Statistics
 
