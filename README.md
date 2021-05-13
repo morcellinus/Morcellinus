@@ -1,7 +1,3 @@
-
-<center>What you lookin' at?</center><br>
-<br>
-<br>
 <br>
 <br>
 <br>
