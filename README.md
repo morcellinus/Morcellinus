@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=000099&height=300&section=header&text=Morcellinus&desc=whasssssssssup&fontSize=90&fontColor=ffffff&rotate=19&fontAlignY=40&fontAlign=60&descrotate=19)
+![header](https://capsule-render.vercel.app/api?type=slice&color=000099&height=200&section=header&text=Morcellinus&desc=whasssssssssup&fontSize=70&fontColor=ffffff&rotate=19&fontAlignY=40&fontAlign=60&descrotate=19)
 ### Hi there 👋
 
 #### This is Jinmo's Github
@@ -9,8 +9,6 @@
 `Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙<br>
 `Sorry, but not welcomed`: Tottenham Fans 😒<br>
 ___
-**This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling**
-
 ### Undergraduate
 
 `2020-01`
