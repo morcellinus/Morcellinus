@@ -1,5 +1,10 @@
 
 <center>What you lookin' at?</center><br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Hi there 👋
 
@@ -9,10 +14,8 @@
 | PSAT 27th Datamining Team Member
 ___
 
-#### #Fully welcomed: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
-
-#### #Sorry, but not welcomed: Tottenham Fans 😒
-
+`Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
+`Sorry, but not welcomed`: Tottenham Fans 😒
 
 **This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling**
 
