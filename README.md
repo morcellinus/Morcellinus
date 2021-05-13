@@ -1,3 +1,4 @@
+<center> 
 <br>
 <br>
 <br>
@@ -11,7 +12,7 @@
 ___
 
 `Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙
-`Sorry, but not welcomed`: Tottenham Fans 😒
+`Sorry, but not welcomed`: Tottenham Fans 😒<br>
 
 **This is a playground that stores my precious, marvelous, but yet not perfect R/Python codes for Data analysis and Modelling**
 
@@ -29,7 +30,7 @@ Investments
 
 ___
 
-| 2020-02
+`2020-02`
 
 Mathematical Statistics
 
@@ -40,7 +41,7 @@ Introduction to Statistical Programming
 ___
 
 
-| 2021-01 (Currently taking)
+`2021-01 (Currently taking)`
 
 Design of Experiment
 
