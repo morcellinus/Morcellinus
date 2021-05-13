@@ -1,6 +1,5 @@
-<center> What you lookin' at? </center>
+<center>What you lookin' at?</center>
 
-_ _ _
 
 ### Hi there 👋
 
@@ -19,7 +18,7 @@ ___
 
 ### Undergraduate
 
-'2020-01'
+`2020-01`
 
 Principles of Statistics
 
