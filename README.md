@@ -8,6 +8,24 @@
 
 `Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙<br>
 `Sorry, but not welcomed`: Tottenham Fans 😒<br>
+
+<h3 align="left">🛠  Tech Stack 🛠</h3>
+
+<p align="left"> Techs that I've used at least once </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+  <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white>
+</p>
+
+<p align="left"> Techs that I mainly use </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</p>
 ___
 ### Undergraduate
 
@@ -32,23 +50,7 @@ Statistical Datamining<br>
 Large Data Management and Visualization<br>
 Mathematical Analysis
 
-<h3 align="left">🛠  Tech Stack 🛠</h3>
 
-<p align="left"> Techs that I've used at least once </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white>
-</p>
-
-<p align="left"> Techs that I mainly use </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-</p>
 
 
 <!--
