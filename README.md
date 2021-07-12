@@ -5,6 +5,7 @@
 
 | Sungkyunkwan University Statistics<br>
 | PSAT 27th Datamining Team Member
+| PSAT 28th Datamining Team Leader
 
 `Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙<br>
 `Sorry, but not welcomed`: Tottenham Fans 😒<br>
@@ -44,7 +45,7 @@ Mathematical Statistics<br>
 Introduction to Regression Analysis<br>
 Introduction to Statistical Programming<br>
 
-`2021-01 (Currently taking)`
+`2021-01`
 
 Design of Experiment<br>
 Introduction to Biostatistics<br>
