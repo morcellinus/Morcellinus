@@ -4,7 +4,7 @@
 #### This is Jinmo's Github
 
 | Sungkyunkwan University Statistics<br>
-| PSAT 27th Datamining Team Member
+| PSAT 27th Datamining Team Member<br>
 | PSAT 28th Datamining Team Leader
 
 `Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙<br>
