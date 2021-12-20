@@ -27,6 +27,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </p>
 
 ___
@@ -52,6 +53,14 @@ Introduction to Biostatistics<br>
 Statistical Datamining<br>
 Large Data Management and Visualization<br>
 Mathematical Analysis
+
+`2021-02`
+
+Statistical Modelling and Machine Learning<br>
+Introduction to Stochastic Process<br>
+Introduction to Deep Learning<br>
+Computer Architecture<br>
+Introduction to Database
 
 
 
