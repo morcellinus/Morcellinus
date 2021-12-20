@@ -35,34 +35,43 @@ ___
 
 `2020-01`
 
-Principles of Statistics<br>
-Matrix Algebra<br>
-Mathematics for Statistics<br>
-Investments<br>
+Investments(투자론)<br>
+Mathematics for Statistics(통계수학)<br>
+Matrix Algebra(행렬대수학)<br>
+Principles of Statistics(통계학원론)<br>
+
 
 `2020-02`
 
-Mathematical Statistics<br>
-Introduction to Regression Analysis<br>
-Introduction to Statistical Programming<br>
+Introduction to Regression Analysis(회귀분석입문)<br>
+Introduction to Statistical Programming(통계적프로그래밍입문)<br>
+Introduction to Mathematical Statistics(수리통계학)<br>
 
 `2021-01`
 
-Design of Experiment<br>
-Introduction to Biostatistics<br>
-Statistical Datamining<br>
-Large Data Management and Visualization<br>
-Mathematical Analysis
+Design of Experiment(실험계획법)<br>
+Introduction to Biostatistics(바이오통계입문)<br>
+Large Data Management and Visualization(대용량자료관리및시각화)<br>
+Mathematical Analysis I(해석학I)<br>
+Statistical Datamining(통계적데이터마이닝)<br>
 
 `2021-02`
 
-Statistical Modelling and Machine Learning<br>
-Introduction to Stochastic Process<br>
-Introduction to Deep Learning<br>
-Computer Architecture<br>
-Introduction to Database
+Computer Architecture(컴퓨터구조론)<br>
+Introduction to Deep Learning(딥러닝개론)<br>
+Introduction to Database(데이터베이스개론)<br>
+Introduction to Stochastic Process(확률과정론입문)<br>
+Statistical Modelling and Machine Learning(통계적모델링과머신러닝<br>
 
+___
+### Schorlarship & Awards
 
+제2회 NH투자증권 빅데이터 경진대회 대상(1위) (2021.11)
+제1회 공연예술통합전산망(KOPIS) 빅데이터 경진대회 최우수상(1위) (2021.09)
+성적우수장학금(Full tuition), 성균관대학교 경제대학 (2021.08)
+성적우수장학금(Full tuition), 성균관대학교 경제대학 (2021.02)
+성적우수장학금(Full tuition), 성균관대학교 경제대학 (2020.08)
+성적우수장학금(70% tuition), 성균관대학교 경제대학 (2020.02)
 
 
 <!--
