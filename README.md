@@ -64,7 +64,7 @@ Computer Architecture(컴퓨터구조론)<br>
 Introduction to Deep Learning(딥러닝개론)<br>
 Introduction to Database(데이터베이스개론)<br>
 Introduction to Stochastic Process(확률과정론입문)<br>
-Statistical Modelling and Machine Learning(통계적모델링과머신러닝<br>
+Statistical Modelling and Machine Learning(통계적모델링과머신러닝)<br>
 
 ___
 ### Schorlarship & Awards
