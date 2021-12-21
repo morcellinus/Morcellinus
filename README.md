@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/QGIS-A0E165?style=flat-square&logo=QGIS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SAS-1C9DEC?style=flat-square&logo=SAS&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="left"> Techs that I mainly use </p>
