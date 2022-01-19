@@ -12,20 +12,6 @@
 
 <h3 align="left">🛠  Tech Stack 🛠</h3>
 
-<p align="left"> Techs that I've used at least once </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/QGIS-A0E165?style=flat-square&logo=QGIS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SAS-1C9DEC?style=flat-square&logo=SAS&logoColor=white"/></a>&nbsp
-</p>
-
 <p align="left"> Techs that I mainly use </p>
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
