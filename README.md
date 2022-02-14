@@ -7,9 +7,6 @@
 | PSAT 27th Datamining Team Member<br>
 | PSAT 28th Datamining Team Leader
 
-`Fully welcomed`: Comments / Feedbacks / Follows / Chelsea FC Fans 💙<br>
-`Sorry, but not welcomed`: Tottenham Fans 😒<br>
-
 <h3 align="left">🛠  Tech Stack 🛠</h3>
 
 <p align="left"> Techs that I mainly use </p>
@@ -62,6 +59,7 @@ ___
 
 `장학`
 
+| 성적우수장학금(10% tuition), 성균관대학교 경제대학 (2022.02)<br>
 | 성적우수장학금(Full tuition), 성균관대학교 경제대학 (2021.08)<br>
 | 성적우수장학금(Full tuition), 성균관대학교 경제대학 (2021.02)<br>
 | 성적우수장학금(Full tuition), 성균관대학교 경제대학 (2020.08)<br>
