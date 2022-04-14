@@ -50,7 +50,7 @@ Introduction to Stochastic Process(확률과정론입문)<br>
 Statistical Modelling and Machine Learning(통계적모델링과머신러닝)<br>
 
 ___
-### Schorlarship & Awards
+### Scholarship & Awards
 
 `수상`
 
