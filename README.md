@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </p>
 
-___
 ### For more info
 
 Visit my Notion [Click Here](https://superficial-fernleaf-a58.notion.site/Marcellinus-Jinmo-Lee-344d1da1e4b14636ae233b604f532387)
