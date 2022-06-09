@@ -16,6 +16,9 @@
 
 ### For more info
 
+<h3 align="left">🥑 Visit ME 🥑</h3>
+<a href="https://superficial-fernleaf-a58.notion.site/Marcellinus-Jinmo-Lee-344d1da1e4b14636ae233b604f532387" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 Visit my Notion [Click Here](https://superficial-fernleaf-a58.notion.site/Marcellinus-Jinmo-Lee-344d1da1e4b14636ae233b604f532387)
 
 <!--
