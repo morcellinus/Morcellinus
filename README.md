@@ -5,21 +5,20 @@
 | B.S Candidate in Statistics, Sungkyunkwan University - 2023.02.<br>
 | Integrated M.S in Applied Artificial Intelligence, Sungkyunkwan University - Present
 
-<h3 align="left">🛠  Tech Stack 🛠</h3>
+<h3 align="center">🛠  Tech Stack 🛠</h3>
 
-<p align="left"> Techs that I mainly use </p>
-<p align="left">
+<p align="center"> Techs that I mainly use </p>
+<p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </p>
 
-### For more info
+<div align="center"> 
+  ### For more info, Visit ME
+</div>
 
-<h3 align="left">🥑 Visit ME 🥑</h3>
 <a href="https://superficial-fernleaf-a58.notion.site/Marcellinus-Jinmo-Lee-344d1da1e4b14636ae233b604f532387" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-Visit my Notion [Click Here](https://superficial-fernleaf-a58.notion.site/Marcellinus-Jinmo-Lee-344d1da1e4b14636ae233b604f532387)
 
 <!--
 **morcellinus/Morcellinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
