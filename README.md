@@ -3,7 +3,8 @@
 #### This is Jinmo's Github
 
 | B.S in Statistics, Sungkyunkwan University, 2017.03 - 2023.02.<br>
-| Integrated M.S in Applied Artificial Intelligence, Sungkyunkwan University @DXLab - 2022.06 - Present
+| Integrated M.S in Applied Artificial Intelligence, Sungkyunkwan University @ DXLab - 2022.06 - Present
+| Data Scientist & ML Engineer @ KB KOOKMIN CARD
 
 <h3 align="left">🛠  Tech Stack 🛠</h3>
 
