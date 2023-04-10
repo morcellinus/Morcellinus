@@ -2,8 +2,8 @@
 
 #### This is Jinmo's Github
 
-| B.S Candidate in Statistics, Sungkyunkwan University, 2017.03 - 2023.02.<br>
-| Integrated M.S in Applied Artificial Intelligence, Sungkyunkwan University - 2022.06 - Present
+| B.S in Statistics, Sungkyunkwan University, 2017.03 - 2023.02.<br>
+| Integrated M.S in Applied Artificial Intelligence, Sungkyunkwan University @DXLab - 2022.06 - Present
 
 <h3 align="left">🛠  Tech Stack 🛠</h3>
 
